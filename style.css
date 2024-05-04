@@ -39,7 +39,6 @@ body {
 p {
     font-family: var(--fonte-paragrafos);
     font-size: 1em;
-    text-align: justify;
 }
 
 #comeco p {
@@ -55,7 +54,6 @@ h1 {
 
 nav {
     margin-left: -2em;
-    margin-bottom: 10%;
 }
 
 nav a {
@@ -92,7 +90,7 @@ h2 {
     font-family: var(--fonte-titulos);
     font-size: 1.50em;
     font-weight: 600;
-    padding-left: 3%;
+    padding: 1% 3%;
     background-image: linear-gradient(to right, var(--cor-essencia), transparent);
     border-radius: 1em;
     margin-top: 3%;
